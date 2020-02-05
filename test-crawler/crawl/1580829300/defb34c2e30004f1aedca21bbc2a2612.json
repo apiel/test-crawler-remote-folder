@@ -1,0 +1,134 @@
+{
+    "url": "http://localhost:3003/",
+    "id": "defb34c2e30004f1aedca21bbc2a2612",
+    "performance": {
+        "timeOrigin": 1580829301008.565,
+        "timing": {
+            "navigationStart": 1580829301008,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1580829301008,
+            "domainLookupStart": 1580829301066,
+            "domainLookupEnd": 1580829301066,
+            "connectStart": 1580829301066,
+            "connectEnd": 1580829301066,
+            "secureConnectionStart": 0,
+            "requestStart": 1580829301066,
+            "responseStart": 1580829301067,
+            "responseEnd": 1580829301068,
+            "domLoading": 1580829301071,
+            "domInteractive": 1580829301395,
+            "domContentLoadedEventStart": 1580829301395,
+            "domContentLoadedEventEnd": 1580829301395,
+            "domComplete": 1580829301445,
+            "loadEventStart": 1580829301445,
+            "loadEventEnd": 1580829301445
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 4339.273577,
+        "Documents": 3,
+        "Frames": 1,
+        "JSEventListeners": 26,
+        "Nodes": 93,
+        "LayoutCount": 2,
+        "RecalcStyleCount": 3,
+        "LayoutDuration": 0.047769,
+        "RecalcStyleDuration": 0.000779,
+        "ScriptDuration": 0.087379,
+        "TaskDuration": 0.218729,
+        "JSHeapUsedSize": 9705136,
+        "JSHeapTotalSize": 17743872
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.0012121928166351607,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 295,
+                        "xMax": 306,
+                        "yMin": 809,
+                        "yMax": 826
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 326,
+                        "xMax": 364,
+                        "yMin": 809,
+                        "yMax": 826
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 384,
+                        "xMax": 422,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 442,
+                        "xMax": 496,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 514,
+                        "xMax": 525,
+                        "yMin": 809,
+                        "yMax": 826
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 442,
+                        "xMax": 495,
+                        "yMin": 810,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 383,
+                        "xMax": 417,
+                        "yMin": 814,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 310,
+                        "xMax": 526,
+                        "yMin": 1378,
+                        "yMax": 1396
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "http://localhost:3003/"
+}

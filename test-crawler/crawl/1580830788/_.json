@@ -1,0 +1,18 @@
+{
+    "url": "http://localhost:3003/",
+    "method": "spiderbot",
+    "autopin": true,
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": 1580830788,
+    "id": "0817ad906b6305ce08dfb18fe3bc996d",
+    "diffZoneCount": 6,
+    "errorCount": 0,
+    "status": "review",
+    "inQueue": 0,
+    "urlsCount": 4,
+    "startAt": 1580830788164,
+    "lastUpdate": 1580830794248
+}

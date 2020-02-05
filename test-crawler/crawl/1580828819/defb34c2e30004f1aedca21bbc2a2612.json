@@ -1,0 +1,161 @@
+{
+    "url": "http://localhost:3003/",
+    "id": "defb34c2e30004f1aedca21bbc2a2612",
+    "performance": {
+        "timeOrigin": 1580828819956.64,
+        "timing": {
+            "navigationStart": 1580828819956,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1580828819956,
+            "domainLookupStart": 1580828820013,
+            "domainLookupEnd": 1580828820013,
+            "connectStart": 1580828820013,
+            "connectEnd": 1580828820013,
+            "secureConnectionStart": 0,
+            "requestStart": 1580828820013,
+            "responseStart": 1580828820015,
+            "responseEnd": 1580828820016,
+            "domLoading": 1580828820019,
+            "domInteractive": 1580828820341,
+            "domContentLoadedEventStart": 1580828820341,
+            "domContentLoadedEventEnd": 1580828820341,
+            "domComplete": 1580828820389,
+            "loadEventStart": 1580828820389,
+            "loadEventEnd": 1580828820389
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 3858.223412,
+        "Documents": 3,
+        "Frames": 1,
+        "JSEventListeners": 26,
+        "Nodes": 93,
+        "LayoutCount": 2,
+        "RecalcStyleCount": 3,
+        "LayoutDuration": 0.046106,
+        "RecalcStyleDuration": 0.000792,
+        "ScriptDuration": 0.089415,
+        "TaskDuration": 0.223937,
+        "JSHeapUsedSize": 9697720,
+        "JSHeapTotalSize": 17743872
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.0013240390674228103,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 295,
+                        "xMax": 408,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 427,
+                        "xMax": 503,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 295,
+                        "xMax": 408,
+                        "yMin": 810,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 427,
+                        "xMax": 503,
+                        "yMin": 810,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 515,
+                        "xMax": 525,
+                        "yMin": 810,
+                        "yMax": 825
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 364,
+                        "xMax": 408,
+                        "yMin": 814,
+                        "yMax": 827
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 261,
+                        "xMax": 437,
+                        "yMin": 1378,
+                        "yMax": 1396
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 456,
+                        "xMax": 539,
+                        "yMin": 1378,
+                        "yMax": 1396
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 260,
+                        "xMax": 350,
+                        "yMin": 1379,
+                        "yMax": 1396
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 407,
+                        "xMax": 437,
+                        "yMin": 1379,
+                        "yMax": 1395
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 456,
+                        "xMax": 539,
+                        "yMin": 1379,
+                        "yMax": 1396
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "http://localhost:3003/"
+}

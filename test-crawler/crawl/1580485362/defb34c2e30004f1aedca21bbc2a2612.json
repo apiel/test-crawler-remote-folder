@@ -1,0 +1,116 @@
+{
+    "url": "http://localhost:3003/",
+    "id": "defb34c2e30004f1aedca21bbc2a2612",
+    "performance": {
+        "timeOrigin": 1580485363173.37,
+        "timing": {
+            "navigationStart": 1580485363173,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1580485363173,
+            "domainLookupStart": 1580485363217,
+            "domainLookupEnd": 1580485363217,
+            "connectStart": 1580485363217,
+            "connectEnd": 1580485363217,
+            "secureConnectionStart": 0,
+            "requestStart": 1580485363217,
+            "responseStart": 1580485363220,
+            "responseEnd": 1580485363221,
+            "domLoading": 1580485363226,
+            "domInteractive": 1580485363590,
+            "domContentLoadedEventStart": 1580485363590,
+            "domContentLoadedEventEnd": 1580485363590,
+            "domComplete": 1580485363654,
+            "loadEventStart": 1580485363654,
+            "loadEventEnd": 1580485363654
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 10470.081374,
+        "Documents": 3,
+        "Frames": 1,
+        "JSEventListeners": 26,
+        "Nodes": 93,
+        "LayoutCount": 2,
+        "RecalcStyleCount": 3,
+        "LayoutDuration": 0.062339,
+        "RecalcStyleDuration": 0.001359,
+        "ScriptDuration": 0.108082,
+        "TaskDuration": 0.256344,
+        "JSHeapUsedSize": 16452880,
+        "JSHeapTotalSize": 33304576
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.0016454001260239445,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 295,
+                        "xMax": 351,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "report"
+                },
+                {
+                    "zone": {
+                        "xMin": 368,
+                        "xMax": 466,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "report"
+                },
+                {
+                    "zone": {
+                        "xMin": 486,
+                        "xMax": 525,
+                        "yMin": 809,
+                        "yMax": 827
+                    },
+                    "status": "report"
+                },
+                {
+                    "zone": {
+                        "xMin": 368,
+                        "xMax": 419,
+                        "yMin": 810,
+                        "yMax": 827
+                    },
+                    "status": "report"
+                },
+                {
+                    "zone": {
+                        "xMin": 486,
+                        "xMax": 524,
+                        "yMin": 810,
+                        "yMax": 827
+                    },
+                    "status": "valid"
+                },
+                {
+                    "zone": {
+                        "xMin": 267,
+                        "xMax": 532,
+                        "yMin": 1378,
+                        "yMax": 1396
+                    },
+                    "status": "report"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "http://localhost:3003/"
+}

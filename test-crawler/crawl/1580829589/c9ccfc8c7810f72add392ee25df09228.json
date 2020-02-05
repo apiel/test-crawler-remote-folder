@@ -1,0 +1,61 @@
+{
+    "url": "http://localhost:3003/item/1",
+    "id": "c9ccfc8c7810f72add392ee25df09228",
+    "performance": {
+        "timeOrigin": 1580829592588.145,
+        "timing": {
+            "navigationStart": 1580829592588,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1580829592588,
+            "domainLookupStart": 1580829592684,
+            "domainLookupEnd": 1580829592684,
+            "connectStart": 1580829592684,
+            "connectEnd": 1580829592684,
+            "secureConnectionStart": 0,
+            "requestStart": 1580829592684,
+            "responseStart": 1580829592685,
+            "responseEnd": 1580829592686,
+            "domLoading": 1580829592692,
+            "domInteractive": 1580829593311,
+            "domContentLoadedEventStart": 1580829593311,
+            "domContentLoadedEventEnd": 1580829593311,
+            "domComplete": 1580829593345,
+            "loadEventStart": 1580829593345,
+            "loadEventEnd": 1580829593345
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 4630.898161,
+        "Documents": 3,
+        "Frames": 1,
+        "JSEventListeners": 20,
+        "Nodes": 68,
+        "LayoutCount": 2,
+        "RecalcStyleCount": 3,
+        "LayoutDuration": 0.032276,
+        "RecalcStyleDuration": 0.000762,
+        "ScriptDuration": 0.130032,
+        "TaskDuration": 0.29782,
+        "JSHeapUsedSize": 9525296,
+        "JSHeapTotalSize": 17346560
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "http://localhost:3003/"
+}

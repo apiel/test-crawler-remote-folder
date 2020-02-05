@@ -1,0 +1,13 @@
+{
+    "id": "f0258b6685684c113bad94d91b8fa02a",
+    "name": "Demo",
+    "crawlerInput": {
+        "url": "http://localhost:3003/",
+        "method": "spiderbot",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
