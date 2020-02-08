@@ -1,0 +1,61 @@
+{
+    "url": "https://abrasive-lead.surge.sh/\r",
+    "id": "1689febba1285b0984d0ce0008cf0a4a",
+    "performance": {
+        "timeOrigin": 1580838149206.9788,
+        "timing": {
+            "navigationStart": 1580838149206,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1580838149207,
+            "domainLookupStart": 1580838149269,
+            "domainLookupEnd": 1580838149271,
+            "connectStart": 1580838149271,
+            "connectEnd": 1580838149802,
+            "secureConnectionStart": 1580838149391,
+            "requestStart": 1580838149802,
+            "responseStart": 1580838150160,
+            "responseEnd": 1580838150163,
+            "domLoading": 1580838150170,
+            "domInteractive": 1580838151601,
+            "domContentLoadedEventStart": 1580838151601,
+            "domContentLoadedEventEnd": 1580838151605,
+            "domComplete": 1580838152258,
+            "loadEventStart": 1580838152258,
+            "loadEventEnd": 1580838152260
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 13188.85645,
+        "Documents": 8,
+        "Frames": 3,
+        "JSEventListeners": 46,
+        "Nodes": 724,
+        "LayoutCount": 10,
+        "RecalcStyleCount": 18,
+        "LayoutDuration": 0.064839,
+        "RecalcStyleDuration": 0.029188,
+        "ScriptDuration": 0.056946,
+        "TaskDuration": 0.31189,
+        "JSHeapUsedSize": 2969996,
+        "JSHeapTotalSize": 3543040
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "https://pastebin.com/raw/3zwT97z8"
+}
