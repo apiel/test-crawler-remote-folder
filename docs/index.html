@@ -1,1 +1,10 @@
 <b>Hello world</b>
+<script>
+    const httpRequest = new XMLHttpRequest();
+    httpRequest.onreadystatechange = function () {
+        // Process the server response here.
+        console.log('handle response', httpRequest.status, httpRequest.responseText);
+    };
+    httpRequest.open('GET', 'https://api.github.com/users/apiel/repos');
+    httpRequest.send();
+</script>
