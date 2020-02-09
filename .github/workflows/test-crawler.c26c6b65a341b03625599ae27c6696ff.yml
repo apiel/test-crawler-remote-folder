@@ -20,7 +20,6 @@ jobs:
     - name: Run test-crawler ${{ github.event.client_payload.projectId }}
       run: |
         yarn global add test-crawler
-        ROOT_FOLDER=`pwd` npx test-crawler-cli --project ${{ github.event.client_payload.projectId }}
         command -v test-crawler-cli
         ROOT_FOLDER=`pwd` test-crawler-cli --project ${{ github.event.client_payload.projectId }}
     - name: Commit changes
