@@ -18,5 +18,16 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn global add test-crawler
+    - run: test-crawler-cli --project c26c6b65a341b03625599ae27c6696ff
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Test-crawler"
+        git commit -m "[test-crawler] CI save" -a
+        git status
+        git pull
+        git push "https://${{ github_token }}@${{ github.repository }}" > /dev/null 2>&1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       # env:
       #   CI: true
