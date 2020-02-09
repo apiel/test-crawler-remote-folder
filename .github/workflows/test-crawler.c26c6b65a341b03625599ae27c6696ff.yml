@@ -20,7 +20,7 @@ jobs:
     - name: Run test-crawler for abrasive-lead.surge
       run: |
         yarn global add test-crawler
-        test-crawler-cli --project c26c6b65a341b03625599ae27c6696ff
+        npx test-crawler-cli --project c26c6b65a341b03625599ae27c6696ff
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
