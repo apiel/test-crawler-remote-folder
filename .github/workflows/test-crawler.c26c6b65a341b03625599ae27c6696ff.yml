@@ -33,8 +33,9 @@ jobs:
         git pull
         git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
     - name: Test for variable
-        run: |
-          echo "${{ github.event.client_payload.projectId }}"
+      run: |
+        ls
+        echo "${{ github.event.client_payload.projectId }}"
       # > /dev/null 2>&1
       # env:
       #   CI: true
