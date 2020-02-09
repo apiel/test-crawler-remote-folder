@@ -26,8 +26,6 @@ jobs:
         git commit -m "[test-crawler] CI save" -a
         git status
         git pull
-        git push "https://${{ github_token }}@${{ github.repository }}" > /dev/null 2>&1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push "https://${{ secrets.GITHUB_TOKEN }}@${{ github.repository }}" > /dev/null 2>&1
       # env:
       #   CI: true
