@@ -19,8 +19,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Run test-crawler ${{ github.event.client_payload.projectId }}
       run: |
-        yarn global add test-crawler
-        ROOT_FOLDER=`pwd` test-crawler-cli --project ${{ github.event.client_payload.projectId }}
+        npx -p test-crawler test-crawler-cli --project ${{ github.event.client_payload.projectId }}
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
