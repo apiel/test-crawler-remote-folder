@@ -22,7 +22,7 @@ jobs:
         yarn global add test-crawler
         ls
         export ROOT_FOLDER=`pwd`
-        echo "root folder: ${{ ROOT_FOLDER }}"
+        echo "root folder: ${{ env.ROOT_FOLDER }}"
         npx test-crawler-cli --project ${{ github.event.client_payload.projectId }}
     - name: Commit changes
       run: |
