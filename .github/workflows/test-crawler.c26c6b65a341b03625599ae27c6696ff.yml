@@ -22,7 +22,7 @@ jobs:
         yarn global add test-crawler
         ls
         pwd
-        ROOT_FOLDER=${{HOME}} npx test-crawler-cli --project c26c6b65a341b03625599ae27c6696ff
+        ROOT_FOLDER=${{ env.HOME }} npx test-crawler-cli --project c26c6b65a341b03625599ae27c6696ff
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
