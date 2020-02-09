@@ -20,10 +20,7 @@ jobs:
     - name: Run test-crawler ${{ github.event.client_payload.projectId }}
       run: |
         yarn global add test-crawler
-        ls
-        export ROOT_FOLDER=`pwd`
-        echo "root folder: ${{ env.ROOT_FOLDER }}"
-        npx test-crawler-cli --project ${{ github.event.client_payload.projectId }}
+        ROOT_FOLDER=`pwd` npx test-crawler-cli --project ${{ github.event.client_payload.projectId }}
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
