@@ -24,7 +24,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Test-crawler"
+        git add .
         git status
-        git commit -m "[test-crawler] CI save" -a || echo "No changes to commit"
+        git commit -m "[test-crawler] CI save" || echo "No changes to commit"
         git pull
         git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
