@@ -1,0 +1,61 @@
+{
+    "url": "https://www.fissiomedia.fi/\r",
+    "id": "8dab0f45248a6b005fff749824304e85",
+    "performance": {
+        "timeOrigin": 1581406524542.512,
+        "timing": {
+            "navigationStart": 1581406524542,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1581406524542,
+            "domainLookupStart": 1581406524555,
+            "domainLookupEnd": 1581406525090,
+            "connectStart": 1581406525090,
+            "connectEnd": 1581406525347,
+            "secureConnectionStart": 1581406525187,
+            "requestStart": 1581406525348,
+            "responseStart": 1581406525569,
+            "responseEnd": 1581406525570,
+            "domLoading": 1581406525574,
+            "domInteractive": 1581406525937,
+            "domContentLoadedEventStart": 1581406526203,
+            "domContentLoadedEventEnd": 1581406526203,
+            "domComplete": 1581406526209,
+            "loadEventStart": 1581406526210,
+            "loadEventEnd": 1581406526211
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 135.220732,
+        "Documents": 3,
+        "Frames": 1,
+        "JSEventListeners": 346,
+        "Nodes": 742,
+        "LayoutCount": 16,
+        "RecalcStyleCount": 31,
+        "LayoutDuration": 0.182824,
+        "RecalcStyleDuration": 0.024953,
+        "ScriptDuration": 0.232781,
+        "TaskDuration": 0.697287,
+        "JSHeapUsedSize": 3135932,
+        "JSHeapTotalSize": 5902336
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "https://pastebin.com/raw/CDczu742"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "0d0e76ce512d243aa54d9150107b03cb",
+    "name": "fissiomedia",
+    "crawlerInput": {
+        "url": "https://pastebin.com/raw/CDczu742",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}

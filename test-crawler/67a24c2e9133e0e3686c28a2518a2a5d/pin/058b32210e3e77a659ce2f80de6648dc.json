@@ -1,0 +1,61 @@
+{
+    "url": "https://apiel.github.io/test-crawler/",
+    "id": "058b32210e3e77a659ce2f80de6648dc",
+    "performance": {
+        "timeOrigin": 1581360745877.6292,
+        "timing": {
+            "navigationStart": 1581360745877,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1581360745877,
+            "domainLookupStart": 1581360745888,
+            "domainLookupEnd": 1581360745920,
+            "connectStart": 1581360745920,
+            "connectEnd": 1581360746647,
+            "secureConnectionStart": 1581360745925,
+            "requestStart": 1581360746647,
+            "responseStart": 1581360746653,
+            "responseEnd": 1581360746654,
+            "domLoading": 1581360746660,
+            "domInteractive": 1581360747259,
+            "domContentLoadedEventStart": 1581360747259,
+            "domContentLoadedEventEnd": 1581360747393,
+            "domComplete": 1581360747636,
+            "loadEventStart": 1581360747636,
+            "loadEventEnd": 1581360747637
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 133.8619,
+        "Documents": 4,
+        "Frames": 1,
+        "JSEventListeners": 12,
+        "Nodes": 728,
+        "LayoutCount": 6,
+        "RecalcStyleCount": 2,
+        "LayoutDuration": 0.502848,
+        "RecalcStyleDuration": 0.012201,
+        "ScriptDuration": 0.168851,
+        "TaskDuration": 0.759989,
+        "JSHeapUsedSize": 6121672,
+        "JSHeapTotalSize": 10407936
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "https://pastebin.com/raw/5DZt2NY4"
+}
