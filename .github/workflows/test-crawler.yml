@@ -1,8 +1,12 @@
 
 name: Test-crawler CI
 
-on: [repository_dispatch]
-
+#on: [repository_dispatch]
+#
+on:
+  repository_dispatch:
+    types: [test-crawler]
+    
 jobs:
   build:
 
