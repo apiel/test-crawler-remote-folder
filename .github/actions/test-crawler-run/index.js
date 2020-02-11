@@ -16,7 +16,7 @@ async function run() {
 
         const options = {
             env: {
-                ROOT_FOLDER: process.cwd();
+                ROOT_FOLDER: process.cwd(),
             }
         };
 
