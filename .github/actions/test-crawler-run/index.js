@@ -6,14 +6,6 @@ async function run() {
         core.info('Run test-crawler');
         const projectId = core.getInput('projectId');
 
-        // const options = {};
-        // options.listeners = {
-        //     stdout: process.stdout.write,
-        //     stderr: process.stderr.write,
-        // };
-        // options.cwd = './lib';
-        // await exec.exec('node', ['index.js', 'foo=bar'], options);
-
         const options = {
             env: {
                 ...process.env,
