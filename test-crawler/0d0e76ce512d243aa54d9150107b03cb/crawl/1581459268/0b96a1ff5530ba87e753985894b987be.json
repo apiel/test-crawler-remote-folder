@@ -1,0 +1,89 @@
+{
+    "url": "https://www.fissiomedia.fi/sivun-muokkaaminen-wordpressissa/",
+    "id": "0b96a1ff5530ba87e753985894b987be",
+    "performance": {
+        "timeOrigin": 1581459272770.0498,
+        "timing": {
+            "navigationStart": 1581459272770,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1581459272770,
+            "domainLookupStart": 1581459272782,
+            "domainLookupEnd": 1581459273012,
+            "connectStart": 1581459273012,
+            "connectEnd": 1581459273808,
+            "secureConnectionStart": 1581459273104,
+            "requestStart": 1581459273809,
+            "responseStart": 1581459273990,
+            "responseEnd": 1581459273991,
+            "domLoading": 1581459274017,
+            "domInteractive": 1581459274996,
+            "domContentLoadedEventStart": 1581459275168,
+            "domContentLoadedEventEnd": 1581459275234,
+            "domComplete": 1581459276088,
+            "loadEventStart": 1581459276088,
+            "loadEventEnd": 1581459276090
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 256.450564,
+        "Documents": 5,
+        "Frames": 5,
+        "JSEventListeners": 451,
+        "Nodes": 1201,
+        "LayoutCount": 62,
+        "RecalcStyleCount": 97,
+        "LayoutDuration": 0.728874,
+        "RecalcStyleDuration": 0.04348,
+        "ScriptDuration": 0.750122,
+        "TaskDuration": 2.022276,
+        "JSHeapUsedSize": 9076152,
+        "JSHeapTotalSize": 19873792
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.002611778846153846,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 48,
+                        "xMax": 95,
+                        "yMin": 724,
+                        "yMax": 771
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 107,
+                        "xMax": 296,
+                        "yMin": 726,
+                        "yMax": 737
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 106,
+                        "xMax": 208,
+                        "yMin": 747,
+                        "yMax": 770
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "baseUrl": "https://pastebin.com/raw/CDczu742"
+}
