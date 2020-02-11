@@ -13,9 +13,8 @@ jobs:
     - name: Setup node
       uses: actions/setup-node@v1
     - name: Run test-crawler ${{ github.event.client_payload.projectId }}
-      uses: ../actions/test-crawler-run
-#      run: |
-#        ROOT_FOLDER=`pwd` npx -p test-crawler test-crawler-cli --project ${{ github.event.client_payload.projectId }}
+      run: |
+        ROOT_FOLDER=`pwd` npx -p test-crawler test-crawler-cli --project ${{ github.event.client_payload.projectId }}
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
