@@ -14,12 +14,18 @@ async function run() {
         // options.cwd = './lib';
         // await exec.exec('node', ['index.js', 'foo=bar'], options);
 
+        // const options = {
+        //     env: {
+        //         ROOT_FOLDER:
+        //     }
+        // };
+
         if (projectId) {
             core.info(`Run for project ${projectId}`);
-            await exec.exec(`ROOT_FOLDER=\`pwd\` npx -p test-crawler test-crawler-cli --project ${projectId}`);
+            await exec.exec(`npx -p test-crawler test-crawler-cli --project ${projectId}`);
         } else {
             core.info(`Run for all projects`);
-            await exec.exec(`ROOT_FOLDER=\`pwd\` npx -p test-crawler test-crawler-cli`);
+            await exec.exec(`npx -p test-crawler test-crawler-cli`);
         }
     } catch (error) {
         core.setFailed(error.message);
