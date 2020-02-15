@@ -1,0 +1,19 @@
+{
+    "url": "https://pastebin.com/raw/3zwT97z8",
+    "browser": "edge-selenium",
+    "method": "urls",
+    "autopin": true,
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1581807959",
+    "id": "5a6fc201a02c6030ac18b78433f5bebe",
+    "diffZoneCount": 0,
+    "errorCount": 2,
+    "status": "review",
+    "inQueue": 0,
+    "urlsCount": 2,
+    "startAt": 1581807959263,
+    "lastUpdate": 1581807963273
+}
