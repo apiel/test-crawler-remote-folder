@@ -1,0 +1,14 @@
+{
+    "id": "00051c64c3d532ea3f53c91a60469528",
+    "name": "abrasive-lead.surge ie",
+    "crawlerInput": {
+        "url": "https://pastebin.com/raw/3zwT97z8",
+        "browser": "ie-selenium",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
