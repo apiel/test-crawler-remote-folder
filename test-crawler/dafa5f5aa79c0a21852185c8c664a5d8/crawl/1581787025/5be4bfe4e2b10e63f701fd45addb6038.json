@@ -1,0 +1,26 @@
+{
+    "url": "https://abrasive-lead.surge.sh/",
+    "id": "5be4bfe4e2b10e63f701fd45addb6038",
+    "performance": {},
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.7327612325701498,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 0,
+                        "xMax": 784,
+                        "yMin": 0,
+                        "yMax": 739
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    }
+}
