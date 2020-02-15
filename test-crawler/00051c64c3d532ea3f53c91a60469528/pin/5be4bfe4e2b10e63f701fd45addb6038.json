@@ -1,0 +1,45 @@
+{
+    "url": "https://abrasive-lead.surge.sh/",
+    "id": "5be4bfe4e2b10e63f701fd45addb6038",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timing": {
+            "connectEnd": 1581804273113,
+            "connectStart": 1581804273113,
+            "domComplete": 1581804273794,
+            "domContentLoadedEventEnd": 1581804273758,
+            "domContentLoadedEventStart": 1581804273751,
+            "domInteractive": 1581804273751,
+            "domLoading": 1581804273342,
+            "domainLookupEnd": 1581804273113,
+            "domainLookupStart": 1581804273113,
+            "fetchStart": 1581804273113,
+            "loadEventEnd": 1581804273800,
+            "loadEventStart": 1581804273800,
+            "msFirstPaint": 1581804273546,
+            "navigationStart": 1581804273112,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1581804273341,
+            "responseEnd": 1581804273343,
+            "responseStart": 1581804273342,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "error": "JavascriptError: Error executing JavaScript"
+}
