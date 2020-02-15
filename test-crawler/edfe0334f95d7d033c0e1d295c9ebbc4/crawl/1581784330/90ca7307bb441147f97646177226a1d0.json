@@ -1,0 +1,152 @@
+{
+    "url": "https://abrasive-lead.surge.sh/cookies.html",
+    "id": "90ca7307bb441147f97646177226a1d0",
+    "performance": {},
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.16622390461726771,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 714,
+                        "xMax": 735,
+                        "yMin": 27,
+                        "yMax": 44
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 34,
+                        "xMax": 214,
+                        "yMin": 28,
+                        "yMax": 41
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 270,
+                        "xMax": 704,
+                        "yMin": 112,
+                        "yMax": 159
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 784,
+                        "yMin": 219,
+                        "yMax": 231
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 48,
+                        "xMax": 662,
+                        "yMin": 243,
+                        "yMax": 256
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 784,
+                        "yMin": 267,
+                        "yMax": 341
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 784,
+                        "yMin": 353,
+                        "yMax": 365
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 426,
+                        "yMin": 377,
+                        "yMax": 389
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 436,
+                        "xMax": 784,
+                        "yMin": 377,
+                        "yMax": 390
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 88,
+                        "xMax": 426,
+                        "yMin": 378,
+                        "yMax": 389
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 438,
+                        "xMax": 784,
+                        "yMin": 378,
+                        "yMax": 390
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 426,
+                        "yMin": 380,
+                        "yMax": 389
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 598,
+                        "xMax": 784,
+                        "yMin": 380,
+                        "yMax": 390
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 49,
+                        "xMax": 719,
+                        "yMin": 401,
+                        "yMax": 475
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 0,
+                        "xMax": 784,
+                        "yMin": 486,
+                        "yMax": 561
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    }
+}
