@@ -2,29 +2,29 @@
     "url": "https://www.fissiomedia.fi/info/\r",
     "id": "a8135c90f85023ef9580e57d5efe4ccf",
     "performance": {
-        "timeOrigin": 1581534780348.806,
+        "timeOrigin": 1581768412440.099,
         "timing": {
-            "navigationStart": 1581534780348,
+            "navigationStart": 1581768412440,
             "unloadEventStart": 0,
             "unloadEventEnd": 0,
             "redirectStart": 0,
             "redirectEnd": 0,
-            "fetchStart": 1581534780349,
-            "domainLookupStart": 1581534780356,
-            "domainLookupEnd": 1581534780557,
-            "connectStart": 1581534780557,
-            "connectEnd": 1581534781770,
-            "secureConnectionStart": 1581534780654,
-            "requestStart": 1581534781771,
-            "responseStart": 1581534781948,
-            "responseEnd": 1581534781958,
-            "domLoading": 1581534781953,
-            "domInteractive": 1581534782784,
-            "domContentLoadedEventStart": 1581534783018,
-            "domContentLoadedEventEnd": 1581534783018,
-            "domComplete": 1581534783167,
-            "loadEventStart": 1581534783167,
-            "loadEventEnd": 1581534783169
+            "fetchStart": 1581768412440,
+            "domainLookupStart": 1581768412464,
+            "domainLookupEnd": 1581768412836,
+            "connectStart": 1581768412836,
+            "connectEnd": 1581768413238,
+            "secureConnectionStart": 1581768412927,
+            "requestStart": 1581768413239,
+            "responseStart": 1581768413399,
+            "responseEnd": 1581768413419,
+            "domLoading": 1581768413419,
+            "domInteractive": 1581768414023,
+            "domContentLoadedEventStart": 1581768414330,
+            "domContentLoadedEventEnd": 1581768414330,
+            "domComplete": 1581768414467,
+            "loadEventStart": 1581768414467,
+            "loadEventEnd": 1581768414474
         },
         "navigation": {
             "type": 0,
@@ -32,19 +32,19 @@
         }
     },
     "metrics": {
-        "Timestamp": 153.788309,
+        "Timestamp": 160.956601,
         "Documents": 7,
         "Frames": 3,
-        "JSEventListeners": 209,
+        "JSEventListeners": 210,
         "Nodes": 703,
-        "LayoutCount": 12,
-        "RecalcStyleCount": 16,
-        "LayoutDuration": 0.432727,
-        "RecalcStyleDuration": 0.157185,
-        "ScriptDuration": 0.296798,
-        "TaskDuration": 1.09082,
-        "JSHeapUsedSize": 3509692,
-        "JSHeapTotalSize": 6164480
+        "LayoutCount": 13,
+        "RecalcStyleCount": 17,
+        "LayoutDuration": 0.207482,
+        "RecalcStyleDuration": 0.09709,
+        "ScriptDuration": 0.347267,
+        "TaskDuration": 0.877789,
+        "JSHeapUsedSize": 3514648,
+        "JSHeapTotalSize": 5902336
     },
     "png": {
         "width": 800,
@@ -291,6 +291,5 @@
     "viewport": {
         "width": 800,
         "height": 600
-    },
-    "baseUrl": "https://pastebin.com/raw/CDczu742"
+    }
 }
