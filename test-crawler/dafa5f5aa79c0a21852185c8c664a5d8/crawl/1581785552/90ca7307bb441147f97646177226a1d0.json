@@ -1,0 +1,5 @@
+{
+    "url": "https://abrasive-lead.surge.sh/cookies.html",
+    "id": "90ca7307bb441147f97646177226a1d0",
+    "error": "SessionNotCreatedError: Could not create a session: The Safari instance is already paired with another WebDriver session."
+}
