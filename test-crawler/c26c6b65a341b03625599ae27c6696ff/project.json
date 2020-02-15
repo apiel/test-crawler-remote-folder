@@ -3,7 +3,7 @@
     "name": "abrasive-lead.surge",
     "crawlerInput": {
         "url": "https://pastebin.com/raw/3zwT97z8",
-        "browser": "safari-selenium",
+        "browser": "chrome-puppeteer",
         "method": "urls",
         "autopin": true,
         "viewport": {
