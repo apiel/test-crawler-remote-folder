@@ -1,0 +1,14 @@
+{
+    "id": "edfe0334f95d7d033c0e1d295c9ebbc4",
+    "name": "abrasive-lead.surge safari",
+    "crawlerInput": {
+        "url": "https://pastebin.com/raw/3zwT97z8",
+        "browser": "safari-selenium",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
