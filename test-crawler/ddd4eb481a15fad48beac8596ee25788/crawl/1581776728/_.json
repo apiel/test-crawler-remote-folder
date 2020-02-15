@@ -1,18 +1,19 @@
 {
     "url": "https://pastebin.com/raw/CDczu742",
+    "browser": "safari-selenium",
     "method": "urls",
     "autopin": true,
     "viewport": {
         "width": 800,
         "height": 600
     },
-    "timestamp": "1581535604",
-    "id": "fc7e50746995c7036fcfdda56fdc3eb5",
-    "diffZoneCount": 171,
-    "errorCount": 0,
+    "timestamp": "1581776728",
+    "id": "0aa8e513e339b336fe37525ee91951b9",
+    "diffZoneCount": 0,
+    "errorCount": 6,
     "status": "review",
     "inQueue": 0,
     "urlsCount": 6,
-    "startAt": 1581535604859,
-    "lastUpdate": 1581535616378
+    "startAt": 1581776728762,
+    "lastUpdate": 1581776735012
 }

@@ -1,0 +1,5 @@
+{
+    "url": "https://www.fissiomedia.fi/palvelut/wordpress-pienkehitys/\r",
+    "id": "fe31936fad6af9696735cb5b49427713",
+    "error": "SessionNotCreatedError: Could not create a session: The Safari instance is already paired with another WebDriver session."
+}
