@@ -1,0 +1,14 @@
+{
+    "id": "ddd4eb481a15fad48beac8596ee25788",
+    "name": "fissiomedia safari",
+    "crawlerInput": {
+        "url": "https://pastebin.com/raw/CDczu742",
+        "browser": "safari-selenium",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
