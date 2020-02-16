@@ -1,5 +1,0 @@
-{
-    "url": "https://abrasive-lead.surge.sh/",
-    "id": "5be4bfe4e2b10e63f701fd45addb6038",
-    "error": "SessionNotCreatedError: No matching capability sets found.\nUnable to match capability set 0: browserName must be 'internet explorer', but was 'ie'"
-}

@@ -1,5 +1,0 @@
-{
-    "url": "https://abrasive-lead.surge.sh/",
-    "id": "5be4bfe4e2b10e63f701fd45addb6038",
-    "error": "Error: The specified executable path does not exist: C:\\npm\\cache\\_npx\\1996\\node_modules\\test-crawler\\node_modules\\edgedriver\\lib\\edgedriver\\MicrosoftWebDriver.exe"
-}

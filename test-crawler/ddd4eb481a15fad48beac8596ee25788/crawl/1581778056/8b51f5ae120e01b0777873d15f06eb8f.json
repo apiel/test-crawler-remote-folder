@@ -1,5 +1,0 @@
-{
-    "url": "https://www.fissiomedia.fi/palvelut/\r",
-    "id": "8b51f5ae120e01b0777873d15f06eb8f",
-    "error": "SessionNotCreatedError: Could not create a session: The Safari instance is already paired with another WebDriver session."
-}

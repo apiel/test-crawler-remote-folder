@@ -1,6 +1,6 @@
 {
     "id": "dafa5f5aa79c0a21852185c8c664a5d8",
-    "name": "abrasive-lead.surge safari2",
+    "name": "abrasive-lead.surge safari",
     "crawlerInput": {
         "url": "https://pastebin.com/raw/3zwT97z8",
         "browser": "safari-selenium",

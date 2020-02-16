@@ -1,5 +1,0 @@
-{
-    "url": "https://abrasive-lead.surge.sh/",
-    "id": "5be4bfe4e2b10e63f701fd45addb6038",
-    "error": "Error: IEDriverServer.exe could not be found on the current PATH. Please download the latest version of IEDriverServer.exe from http://selenium-release.storage.googleapis.com/index.html and ensure it can be found on your system PATH."
-}

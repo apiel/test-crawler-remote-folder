@@ -1,5 +1,0 @@
-{
-    "url": "https://www.fissiomedia.fi/sivun-muokkaaminen-wordpressissa/",
-    "id": "0b96a1ff5530ba87e753985894b987be",
-    "error": "SessionNotCreatedError: Could not create a session: The Safari instance is already paired with another WebDriver session."
-}
