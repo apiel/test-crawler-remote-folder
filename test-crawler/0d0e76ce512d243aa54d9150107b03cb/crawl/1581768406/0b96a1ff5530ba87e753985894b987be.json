@@ -58,7 +58,7 @@
                         "yMin": 724,
                         "yMax": 771
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -67,7 +67,7 @@
                         "yMin": 726,
                         "yMax": 737
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -76,7 +76,7 @@
                         "yMin": 747,
                         "yMax": 770
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -85,7 +85,7 @@
                         "yMin": 1447,
                         "yMax": 1458
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -103,7 +103,7 @@
                         "yMin": 1548,
                         "yMax": 1588
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -112,7 +112,7 @@
                         "yMin": 1619,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -121,7 +121,7 @@
                         "yMin": 1619,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -130,7 +130,7 @@
                         "yMin": 1619,
                         "yMax": 1633
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -139,7 +139,7 @@
                         "yMin": 1620,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -148,7 +148,7 @@
                         "yMin": 1620,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -157,7 +157,7 @@
                         "yMin": 1620,
                         "yMax": 1633
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -166,7 +166,7 @@
                         "yMin": 1620,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -175,7 +175,7 @@
                         "yMin": 1621,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -184,7 +184,7 @@
                         "yMin": 1621,
                         "yMax": 1634
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -193,7 +193,7 @@
                         "yMin": 1623,
                         "yMax": 1633
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -211,7 +211,7 @@
                         "yMin": 1658,
                         "yMax": 1688
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -220,7 +220,7 @@
                         "yMin": 1673,
                         "yMax": 1688
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -229,7 +229,7 @@
                         "yMin": 1673,
                         "yMax": 1687
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -238,7 +238,7 @@
                         "yMin": 1674,
                         "yMax": 1687
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -247,7 +247,7 @@
                         "yMin": 1674,
                         "yMax": 1688
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -256,7 +256,7 @@
                         "yMin": 1674,
                         "yMax": 1687
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -265,7 +265,7 @@
                         "yMin": 1674,
                         "yMax": 1688
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -274,7 +274,7 @@
                         "yMin": 1675,
                         "yMax": 1688
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -283,7 +283,7 @@
                         "yMin": 1677,
                         "yMax": 1687
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -292,7 +292,7 @@
                         "yMin": 1677,
                         "yMax": 1687
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -301,7 +301,7 @@
                         "yMin": 1677,
                         "yMax": 1688
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -319,7 +319,7 @@
                         "yMin": 1956,
                         "yMax": 2000
                     },
-                    "status": "diff"
+                    "status": "report"
                 },
                 {
                     "zone": {
@@ -328,7 +328,7 @@
                         "yMin": 1963,
                         "yMax": 2000
                     },
-                    "status": "valid"
+                    "status": "report"
                 },
                 {
                     "zone": {
