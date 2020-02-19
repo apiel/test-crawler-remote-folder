@@ -1,0 +1,20 @@
+
+name: Test-crawler CI apply changes
+
+on:
+  repository_dispatch:
+    types: [test-crawler_apply_changes]
+
+jobs:
+  test-crawler:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Apply changes
+      uses: apiel/test-crawler/actions/apply-changes@master
+    - name: Push changes
+      uses: apiel/test-crawler/actions/push@master
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
