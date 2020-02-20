@@ -1,5 +1,0 @@
-{
-    "url": "https://abrasive-lead.surge.sh/",
-    "id": "5be4bfe4e2b10e63f701fd45addb6038",
-    "error": "SessionNotCreatedError: Could not create a session: The Safari instance is already paired with another WebDriver session."
-}
