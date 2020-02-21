@@ -1,0 +1,61 @@
+{
+    "url": "https://www.fissiomedia.fi/sivun-muokkaaminen-wordpressissa/",
+    "id": "0b96a1ff5530ba87e753985894b987be",
+    "performance": {
+        "timeOrigin": 1582313681957.1492,
+        "timing": {
+            "navigationStart": 1582313681957,
+            "unloadEventStart": 0,
+            "unloadEventEnd": 0,
+            "redirectStart": 0,
+            "redirectEnd": 0,
+            "fetchStart": 1582313681957,
+            "domainLookupStart": 1582313682219,
+            "domainLookupEnd": 1582313682219,
+            "connectStart": 1582313682219,
+            "connectEnd": 1582313682590,
+            "secureConnectionStart": 1582313682317,
+            "requestStart": 1582313682590,
+            "responseStart": 1582313682780,
+            "responseEnd": 1582313682781,
+            "domLoading": 1582313682785,
+            "domInteractive": 1582313683382,
+            "domContentLoadedEventStart": 1582313683485,
+            "domContentLoadedEventEnd": 1582313683511,
+            "domComplete": 1582313684242,
+            "loadEventStart": 1582313684242,
+            "loadEventEnd": 1582313684244
+        },
+        "navigation": {
+            "type": 0,
+            "redirectCount": 0
+        }
+    },
+    "metrics": {
+        "Timestamp": 1139.328694,
+        "Documents": 11,
+        "Frames": 5,
+        "JSEventListeners": 447,
+        "Nodes": 1412,
+        "LayoutCount": 42,
+        "RecalcStyleCount": 54,
+        "LayoutDuration": 0.539487,
+        "RecalcStyleDuration": 0.043231,
+        "ScriptDuration": 0.540926,
+        "TaskDuration": 1.447883,
+        "JSHeapUsedSize": 10190772,
+        "JSHeapTotalSize": 19038208
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582313677"
+}
