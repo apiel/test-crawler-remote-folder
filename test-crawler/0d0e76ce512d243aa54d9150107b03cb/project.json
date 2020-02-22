@@ -3,6 +3,7 @@
     "name": "fissiomedia",
     "crawlerInput": {
         "url": "https://pastebin.com/raw/CDczu742",
+        "browser": "firefox-selenium",
         "method": "urls",
         "autopin": true,
         "viewport": {
