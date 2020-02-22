@@ -1,0 +1,5 @@
+{
+  "peerDependencies": {
+    "geckodriver": "^1.19.1"
+  }
+}
