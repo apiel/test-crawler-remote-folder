@@ -1,0 +1,56 @@
+{
+    "url": "https://www.fissiomedia.fi/palvelut/",
+    "id": "e2298f07083df53e229242b34199c90c",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582486805063.877,
+        "timing": {
+            "connectEnd": 1582486805313,
+            "connectStart": 1582486805087,
+            "domComplete": 1582486806472,
+            "domContentLoadedEventEnd": 1582486806131,
+            "domContentLoadedEventStart": 1582486806131,
+            "domInteractive": 1582486805984,
+            "domLoading": 1582486805428,
+            "domainLookupEnd": 1582486805087,
+            "domainLookupStart": 1582486805086,
+            "fetchStart": 1582486805064,
+            "loadEventEnd": 1582486806474,
+            "loadEventStart": 1582486806472,
+            "navigationStart": 1582486805063,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582486805313,
+            "responseEnd": 1582486805421,
+            "responseStart": 1582486805420,
+            "secureConnectionStart": 1582486805186,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.12594606891531182,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 0,
+                        "xMax": 799,
+                        "yMin": 0,
+                        "yMax": 4120
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582486795"
+}
