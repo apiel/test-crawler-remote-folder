@@ -16,12 +16,15 @@ jobs:
       run: |
         sudo safaridriver --enable
         safaridriver -p 0 &
-    - name: testyo
+    - name: testyo1
       run: |
         ls ~
+    - name: testyo2
+      run: |
         pwd
+    - name: testyo2
+      run: |
         ls
-        ls ~/node_modules/puppeteer-core
     - name: Cache node modules
       uses: actions/cache@v1
       env:
