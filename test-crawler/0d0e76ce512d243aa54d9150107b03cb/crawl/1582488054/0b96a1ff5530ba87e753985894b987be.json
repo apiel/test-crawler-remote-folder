@@ -1,0 +1,164 @@
+{
+    "url": "https://www.fissiomedia.fi/sivun-muokkaaminen-wordpressissa/",
+    "id": "0b96a1ff5530ba87e753985894b987be",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582488065186.056,
+        "timing": {
+            "connectEnd": 1582488065419,
+            "connectStart": 1582488065201,
+            "domComplete": 1582488066447,
+            "domContentLoadedEventEnd": 1582488065971,
+            "domContentLoadedEventStart": 1582488065954,
+            "domInteractive": 1582488065866,
+            "domLoading": 1582488065534,
+            "domainLookupEnd": 1582488065201,
+            "domainLookupStart": 1582488065200,
+            "fetchStart": 1582488065186,
+            "loadEventEnd": 1582488066449,
+            "loadEventStart": 1582488066447,
+            "navigationStart": 1582488065186,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582488065420,
+            "responseEnd": 1582488065529,
+            "responseStart": 1582488065528,
+            "secureConnectionStart": 1582488065301,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.04181913774973712,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 704,
+                        "xMax": 799,
+                        "yMin": 0,
+                        "yMax": 1901
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 111,
+                        "xMax": 173,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 218,
+                        "xMax": 286,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 329,
+                        "xMax": 402,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 445,
+                        "xMax": 534,
+                        "yMin": 83,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 579,
+                        "xMax": 681,
+                        "yMin": 83,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 218,
+                        "xMax": 286,
+                        "yMin": 84,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 481,
+                        "xMax": 534,
+                        "yMin": 84,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 578,
+                        "xMax": 681,
+                        "yMin": 84,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 384,
+                        "xMax": 799,
+                        "yMin": 174,
+                        "yMax": 1901
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 339,
+                        "yMin": 317,
+                        "yMax": 622
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 386,
+                        "xMax": 408,
+                        "yMin": 390,
+                        "yMax": 407
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 350,
+                        "xMax": 693,
+                        "yMin": 440,
+                        "yMax": 485
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582488054"
+}
