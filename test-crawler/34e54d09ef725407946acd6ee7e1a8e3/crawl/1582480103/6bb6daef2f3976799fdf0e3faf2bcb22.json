@@ -1,0 +1,677 @@
+{
+    "url": "https://www.fissiomedia.fi/",
+    "id": "6bb6daef2f3976799fdf0e3faf2bcb22",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582480123434,
+        "timing": {
+            "connectEnd": 1582480125779,
+            "connectStart": 1582480125564,
+            "domComplete": 1582480127729,
+            "domContentLoadedEventEnd": 1582480123512,
+            "domContentLoadedEventStart": 1582480123511,
+            "domInteractive": 1582480123485,
+            "domLoading": 1582480123437,
+            "domainLookupEnd": 1582480125564,
+            "domainLookupStart": 1582480125564,
+            "fetchStart": 1582480125542,
+            "loadEventEnd": 1582480127732,
+            "loadEventStart": 1582480127729,
+            "navigationStart": 1582480123435,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582480125779,
+            "responseEnd": 1582480125888,
+            "responseStart": 1582480125888,
+            "secureConnectionStart": 1582480125661,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.24248048780487805,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 105,
+                        "xMax": 295,
+                        "yMin": 1302,
+                        "yMax": 1369
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 65,
+                        "xMax": 334,
+                        "yMin": 1399,
+                        "yMax": 1500
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1568,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 489,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 538,
+                        "xMax": 543,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 563,
+                        "xMax": 603,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 617,
+                        "xMax": 619,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 631,
+                        "xMax": 634,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 645,
+                        "xMax": 652,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 664,
+                        "xMax": 665,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 680,
+                        "xMax": 689,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 700,
+                        "xMax": 700,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 721,
+                        "xMax": 727,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 739,
+                        "xMax": 739,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 759,
+                        "xMax": 759,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 769,
+                        "xMax": 769,
+                        "yMin": 1580,
+                        "yMax": 1580
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1610,
+                        "yMax": 1610
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1632,
+                        "yMax": 1945
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 495,
+                        "xMax": 593,
+                        "yMin": 1667,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1668,
+                        "yMax": 1945
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 495,
+                        "xMax": 593,
+                        "yMin": 1668,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 605,
+                        "xMax": 702,
+                        "yMin": 1668,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1669,
+                        "yMax": 1945
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 605,
+                        "xMax": 702,
+                        "yMin": 1670,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 498,
+                        "xMax": 593,
+                        "yMin": 1673,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 606,
+                        "xMax": 702,
+                        "yMin": 1673,
+                        "yMax": 1695
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1707,
+                        "yMax": 1945
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 552,
+                        "xMax": 645,
+                        "yMin": 1707,
+                        "yMax": 1734
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 453,
+                        "xMax": 747,
+                        "yMin": 1763,
+                        "yMax": 1862
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 784,
+                        "yMin": 1933,
+                        "yMax": 1945
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1963,
+                        "yMax": 3220
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 784,
+                        "yMin": 1963,
+                        "yMax": 1975
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 0,
+                        "xMax": 799,
+                        "yMin": 2020,
+                        "yMax": 3483
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 602,
+                        "yMin": 3496,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 625,
+                        "xMax": 739,
+                        "yMin": 3496,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 21,
+                        "xMax": 390,
+                        "yMin": 3497,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 602,
+                        "xMax": 739,
+                        "yMin": 3497,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 97,
+                        "xMax": 602,
+                        "yMin": 3499,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 618,
+                        "xMax": 739,
+                        "yMin": 3499,
+                        "yMax": 3510
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 17,
+                        "xMax": 167,
+                        "yMin": 3543,
+                        "yMax": 3585
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 17,
+                        "xMax": 747,
+                        "yMin": 3597,
+                        "yMax": 3612
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 602,
+                        "yMin": 3624,
+                        "yMax": 3657
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 625,
+                        "xMax": 739,
+                        "yMin": 3624,
+                        "yMax": 3638
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 390,
+                        "yMin": 3625,
+                        "yMax": 3657
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 602,
+                        "xMax": 739,
+                        "yMin": 3625,
+                        "yMax": 3638
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 20,
+                        "xMax": 602,
+                        "yMin": 3627,
+                        "yMax": 3657
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 618,
+                        "xMax": 739,
+                        "yMin": 3627,
+                        "yMax": 3638
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 248,
+                        "yMin": 3671,
+                        "yMax": 3759
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 461,
+                        "yMin": 3772,
+                        "yMax": 3787
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 103,
+                        "yMin": 3819,
+                        "yMax": 3831
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 148,
+                        "yMin": 3846,
+                        "yMax": 3861
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 461,
+                        "yMin": 3873,
+                        "yMax": 3914
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 308,
+                        "xMax": 383,
+                        "yMin": 3944,
+                        "yMax": 3961
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 465,
+                        "xMax": 546,
+                        "yMin": 3944,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 17,
+                        "xMax": 180,
+                        "yMin": 3945,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 214,
+                        "xMax": 383,
+                        "yMin": 3946,
+                        "yMax": 3961
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 416,
+                        "xMax": 546,
+                        "yMin": 3946,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 580,
+                        "xMax": 718,
+                        "yMin": 3946,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 180,
+                        "yMin": 3947,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 271,
+                        "xMax": 382,
+                        "yMin": 3947,
+                        "yMax": 3961
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 587,
+                        "xMax": 718,
+                        "yMin": 3949,
+                        "yMax": 3960
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 148,
+                        "yMin": 3975,
+                        "yMax": 3998
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 186,
+                        "yMin": 4021,
+                        "yMax": 4099
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 308,
+                        "xMax": 382,
+                        "yMin": 4072,
+                        "yMax": 4088
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 465,
+                        "xMax": 546,
+                        "yMin": 4072,
+                        "yMax": 4087
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 214,
+                        "xMax": 382,
+                        "yMin": 4073,
+                        "yMax": 4088
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 416,
+                        "xMax": 546,
+                        "yMin": 4073,
+                        "yMax": 4087
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 580,
+                        "xMax": 718,
+                        "yMin": 4073,
+                        "yMax": 4087
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 271,
+                        "xMax": 382,
+                        "yMin": 4074,
+                        "yMax": 4088
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 587,
+                        "xMax": 718,
+                        "yMin": 4076,
+                        "yMax": 4087
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582480103"
+}

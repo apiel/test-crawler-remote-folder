@@ -1,0 +1,56 @@
+{
+    "url": "https://www.fissiomedia.fi/palvelut/wordpress-pienkehitys/",
+    "id": "f7f3c9d9ffd3d47c6c307a42f985b0c0",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582480135939,
+        "timing": {
+            "connectEnd": 1582480137470,
+            "connectStart": 1582480137198,
+            "domComplete": 1582480138057,
+            "domContentLoadedEventEnd": 1582480136047,
+            "domContentLoadedEventStart": 1582480136046,
+            "domInteractive": 1582480135998,
+            "domLoading": 1582480135940,
+            "domainLookupEnd": 1582480137198,
+            "domainLookupStart": 1582480137197,
+            "fetchStart": 1582480137193,
+            "loadEventEnd": 1582480138062,
+            "loadEventStart": 1582480138057,
+            "navigationStart": 1582480135939,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582480137470,
+            "responseEnd": 1582480137580,
+            "responseStart": 1582480137580,
+            "secureConnectionStart": 1582480137297,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.00031931903686982694,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 39,
+                        "xMax": 186,
+                        "yMin": 2591,
+                        "yMax": 2657
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582480103"
+}
