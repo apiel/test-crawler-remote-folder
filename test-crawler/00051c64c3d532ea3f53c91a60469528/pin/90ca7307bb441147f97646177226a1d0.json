@@ -1,0 +1,42 @@
+{
+    "url": "https://abrasive-lead.surge.sh/cookies.html",
+    "id": "90ca7307bb441147f97646177226a1d0",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timing": {
+            "connectEnd": 1582472809041,
+            "connectStart": 1582472809041,
+            "domComplete": 1582472809991,
+            "domContentLoadedEventEnd": 1582472809983,
+            "domContentLoadedEventStart": 1582472809978,
+            "domInteractive": 1582472809978,
+            "domLoading": 1582472809542,
+            "domainLookupEnd": 1582472809041,
+            "domainLookupStart": 1582472809041,
+            "fetchStart": 1582472809041,
+            "loadEventEnd": 1582472810017,
+            "loadEventStart": 1582472810017,
+            "msFirstPaint": 1582472810030,
+            "navigationStart": 1582472809040,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582472809498,
+            "responseEnd": 1582472809545,
+            "responseStart": 1582472809542,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "error": "JavascriptError: Error executing JavaScript",
+    "timestamp": "1582472792"
+}
