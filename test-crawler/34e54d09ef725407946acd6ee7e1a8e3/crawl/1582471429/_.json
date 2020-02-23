@@ -1,0 +1,19 @@
+{
+    "url": "https://pastebin.com/raw/CDczu742",
+    "browser": "firefox-selenium",
+    "method": "urls",
+    "autopin": true,
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582471429",
+    "id": "412f0ccbe58649dafff44693dd569aea",
+    "diffZoneCount": 0,
+    "errorCount": 0,
+    "status": "review",
+    "inQueue": 1,
+    "urlsCount": 0,
+    "startAt": 1582471429559,
+    "lastUpdate": 1582471429559
+}
