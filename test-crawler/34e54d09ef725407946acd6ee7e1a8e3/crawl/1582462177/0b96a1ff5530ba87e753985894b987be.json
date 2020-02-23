@@ -1,0 +1,56 @@
+{
+    "url": "https://www.fissiomedia.fi/sivun-muokkaaminen-wordpressissa/",
+    "id": "0b96a1ff5530ba87e753985894b987be",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582462198589,
+        "timing": {
+            "connectEnd": 1582462203483,
+            "connectStart": 1582462203222,
+            "domComplete": 1582462204884,
+            "domContentLoadedEventEnd": 1582462198854,
+            "domContentLoadedEventStart": 1582462198845,
+            "domInteractive": 1582462198655,
+            "domLoading": 1582462198592,
+            "domainLookupEnd": 1582462203222,
+            "domainLookupStart": 1582462203220,
+            "fetchStart": 1582462203207,
+            "loadEventEnd": 1582462204887,
+            "loadEventStart": 1582462204884,
+            "navigationStart": 1582462198590,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582462203483,
+            "responseEnd": 1582462203587,
+            "responseStart": 1582462203586,
+            "secureConnectionStart": 1582462203318,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.0014760928961748633,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 48,
+                        "xMax": 95,
+                        "yMin": 724,
+                        "yMax": 771
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582462177"
+}
