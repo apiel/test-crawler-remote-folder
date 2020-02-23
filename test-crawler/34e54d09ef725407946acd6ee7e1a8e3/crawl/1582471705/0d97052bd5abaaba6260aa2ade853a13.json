@@ -1,0 +1,46 @@
+{
+    "url": "https://www.fissiomedia.fi/palvelut/wordpress-yllapito/",
+    "id": "0d97052bd5abaaba6260aa2ade853a13",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582471722032,
+        "timing": {
+            "connectEnd": 1582471725430,
+            "connectStart": 1582471725170,
+            "domComplete": 1582471726081,
+            "domContentLoadedEventEnd": 1582471722165,
+            "domContentLoadedEventStart": 1582471722161,
+            "domInteractive": 1582471722124,
+            "domLoading": 1582471722033,
+            "domainLookupEnd": 1582471725170,
+            "domainLookupStart": 1582471725170,
+            "fetchStart": 1582471725149,
+            "loadEventEnd": 1582471726096,
+            "loadEventStart": 1582471726081,
+            "navigationStart": 1582471722031,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582471725430,
+            "responseEnd": 1582471725545,
+            "responseStart": 1582471725544,
+            "secureConnectionStart": 1582471725273,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582471705"
+}
