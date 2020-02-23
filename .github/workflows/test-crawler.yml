@@ -16,22 +16,6 @@ jobs:
       run: |
         sudo safaridriver --enable
         safaridriver -p 0 &
-    - name: testyo1
-      run: |
-        ls ~
-    - name: testyo2
-      run: |
-        pwd
-    - name: testyo2
-      run: |
-        ls
-    - name: Cache node modules
-      uses: actions/cache@v1
-      env:
-        cache-name: cache-node-modules
-      with:
-        path: ~/node_modules/puppeteer-core/.local-chromium
-        key: puppeteer-local-chromium
     - name: Run test-crawler ${{ github.event.client_payload.projectId }}
       uses: apiel/test-crawler/actions/crawl@master
     - name: Push changes
