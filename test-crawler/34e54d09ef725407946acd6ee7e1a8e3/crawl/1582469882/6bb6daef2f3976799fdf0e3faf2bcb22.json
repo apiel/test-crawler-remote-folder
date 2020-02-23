@@ -1,0 +1,83 @@
+{
+    "url": "https://www.fissiomedia.fi/",
+    "id": "6bb6daef2f3976799fdf0e3faf2bcb22",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582469900430,
+        "timing": {
+            "connectEnd": 1582469903411,
+            "connectStart": 1582469903180,
+            "domComplete": 1582469904217,
+            "domContentLoadedEventEnd": 1582469900581,
+            "domContentLoadedEventStart": 1582469900575,
+            "domInteractive": 1582469900487,
+            "domLoading": 1582469900430,
+            "domainLookupEnd": 1582469903180,
+            "domainLookupStart": 1582469903180,
+            "fetchStart": 1582469903142,
+            "loadEventEnd": 1582469904220,
+            "loadEventStart": 1582469904217,
+            "navigationStart": 1582469900430,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582469903411,
+            "responseEnd": 1582469903521,
+            "responseStart": 1582469903521,
+            "secureConnectionStart": 1582469903283,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.07448871951219513,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 15,
+                        "xMax": 384,
+                        "yMin": 1246,
+                        "yMax": 1567
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 784,
+                        "yMin": 1246,
+                        "yMax": 1579
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 784,
+                        "yMin": 1611,
+                        "yMax": 1932
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 415,
+                        "xMax": 784,
+                        "yMin": 2035,
+                        "yMax": 2273
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582469882"
+}
