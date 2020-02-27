@@ -1,0 +1,155 @@
+{
+    "url": "https://abrasive-lead.surge.sh/",
+    "id": "5be4bfe4e2b10e63f701fd45addb6038",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timing": {
+            "connectEnd": 1582827260789,
+            "connectStart": 1582827260789,
+            "domComplete": 1582827263962,
+            "domContentLoadedEventEnd": 1582827263956,
+            "domContentLoadedEventStart": 1582827263907,
+            "domInteractive": 1582827263907,
+            "domLoading": 1582827261285,
+            "domainLookupEnd": 1582827260789,
+            "domainLookupStart": 1582827260789,
+            "fetchStart": 1582827260789,
+            "loadEventEnd": 1582827264035,
+            "loadEventStart": 1582827264033,
+            "msFirstPaint": 1582827264442,
+            "navigationStart": 1582827260767,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582827261273,
+            "responseEnd": 1582827261322,
+            "responseStart": 1582827261285,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.0036155999364726435,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 449,
+                        "xMax": 632,
+                        "yMin": 195,
+                        "yMax": 256
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 246,
+                        "xMax": 252,
+                        "yMin": 196,
+                        "yMax": 196
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 290,
+                        "xMax": 418,
+                        "yMin": 196,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 621,
+                        "xMax": 632,
+                        "yMin": 196,
+                        "yMax": 196
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 135,
+                        "xMax": 232,
+                        "yMin": 197,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 296,
+                        "xMax": 418,
+                        "yMin": 197,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 448,
+                        "xMax": 632,
+                        "yMin": 197,
+                        "yMax": 256
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 146,
+                        "xMax": 275,
+                        "yMin": 209,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 330,
+                        "xMax": 418,
+                        "yMin": 209,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 497,
+                        "xMax": 538,
+                        "yMin": 209,
+                        "yMax": 256
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 567,
+                        "xMax": 632,
+                        "yMin": 209,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 333,
+                        "xMax": 428,
+                        "yMin": 210,
+                        "yMax": 242
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "error": "JavascriptError: Error executing JavaScript",
+    "timestamp": "1582827247"
+}
