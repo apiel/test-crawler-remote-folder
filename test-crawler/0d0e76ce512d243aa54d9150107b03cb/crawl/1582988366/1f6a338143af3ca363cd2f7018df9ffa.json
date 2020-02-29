@@ -1,0 +1,200 @@
+{
+    "url": "https://www.fissiomedia.fi/info/",
+    "id": "1f6a338143af3ca363cd2f7018df9ffa",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582988371811.7458,
+        "timing": {
+            "connectEnd": 1582988372043,
+            "connectStart": 1582988371831,
+            "domComplete": 1582988373093,
+            "domContentLoadedEventEnd": 1582988372914,
+            "domContentLoadedEventStart": 1582988372914,
+            "domInteractive": 1582988372726,
+            "domLoading": 1582988372156,
+            "domainLookupEnd": 1582988371831,
+            "domainLookupStart": 1582988371829,
+            "fetchStart": 1582988371811,
+            "loadEventEnd": 1582988373098,
+            "loadEventStart": 1582988373093,
+            "navigationStart": 1582988371811,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582988372043,
+            "responseEnd": 1582988372149,
+            "responseStart": 1582988372148,
+            "secureConnectionStart": 1582988371927,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.015528406833531983,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 786,
+                        "xMax": 799,
+                        "yMin": 0,
+                        "yMax": 2516
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 704,
+                        "xMax": 775,
+                        "yMin": 31,
+                        "yMax": 48
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 111,
+                        "xMax": 173,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 218,
+                        "xMax": 286,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 329,
+                        "xMax": 402,
+                        "yMin": 83,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 445,
+                        "xMax": 534,
+                        "yMin": 83,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 578,
+                        "xMax": 681,
+                        "yMin": 83,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 218,
+                        "xMax": 286,
+                        "yMin": 84,
+                        "yMax": 95
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 481,
+                        "xMax": 534,
+                        "yMin": 84,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 577,
+                        "xMax": 681,
+                        "yMin": 84,
+                        "yMax": 98
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 688,
+                        "xMax": 771,
+                        "yMin": 648,
+                        "yMax": 660
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 16,
+                        "xMax": 517,
+                        "yMin": 678,
+                        "yMax": 693
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 721,
+                        "xMax": 752,
+                        "yMin": 986,
+                        "yMax": 1024
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 737,
+                        "xMax": 752,
+                        "yMin": 1085,
+                        "yMax": 1123
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 737,
+                        "xMax": 752,
+                        "yMin": 1168,
+                        "yMax": 1206
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 737,
+                        "xMax": 752,
+                        "yMin": 1251,
+                        "yMax": 1289
+                    },
+                    "status": "diff"
+                },
+                {
+                    "zone": {
+                        "xMin": 729,
+                        "xMax": 752,
+                        "yMin": 1334,
+                        "yMax": 1483
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582988366"
+}

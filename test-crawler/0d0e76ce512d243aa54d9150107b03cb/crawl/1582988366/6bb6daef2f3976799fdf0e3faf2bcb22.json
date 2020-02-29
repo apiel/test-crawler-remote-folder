@@ -1,0 +1,56 @@
+{
+    "url": "https://www.fissiomedia.fi/",
+    "id": "6bb6daef2f3976799fdf0e3faf2bcb22",
+    "performance": {
+        "navigation": {
+            "redirectCount": 0,
+            "type": 0
+        },
+        "timeOrigin": 1582988373813.195,
+        "timing": {
+            "connectEnd": 1582988374049,
+            "connectStart": 1582988373827,
+            "domComplete": 1582988375081,
+            "domContentLoadedEventEnd": 1582988374744,
+            "domContentLoadedEventStart": 1582988374744,
+            "domInteractive": 1582988374608,
+            "domLoading": 1582988374184,
+            "domainLookupEnd": 1582988373827,
+            "domainLookupStart": 1582988373826,
+            "fetchStart": 1582988373814,
+            "loadEventEnd": 1582988375084,
+            "loadEventStart": 1582988375082,
+            "navigationStart": 1582988373813,
+            "redirectEnd": 0,
+            "redirectStart": 0,
+            "requestStart": 1582988374049,
+            "responseEnd": 1582988374167,
+            "responseStart": 1582988374165,
+            "secureConnectionStart": 1582988373923,
+            "unloadEventEnd": 0,
+            "unloadEventStart": 0
+        }
+    },
+    "png": {
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0.30212062146892654,
+            "zones": [
+                {
+                    "zone": {
+                        "xMin": 0,
+                        "xMax": 799,
+                        "yMin": 0,
+                        "yMax": 4424
+                    },
+                    "status": "diff"
+                }
+            ]
+        }
+    },
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1582988366"
+}
