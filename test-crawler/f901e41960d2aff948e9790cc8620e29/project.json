@@ -1,0 +1,13 @@
+{
+    "id": "f901e41960d2aff948e9790cc8620e29",
+    "name": "demo demo",
+    "crawlerInput": {
+        "url": " https://www.wphdigital.com/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
